@@ -42,8 +42,8 @@ Database:
     API Link: https://testapi.uproid.com/api/
     API Key:  APIKEY_HASH
 
-    <b>EndPoints: </b>
-        ** Endpoints key is: action
+<b>EndPoints: </b> 
+** Endpoints key is: action
 
         NEW_BOOK			:		Making a record in books table
         DELETE_BOOK			:		Delete a record from books table
